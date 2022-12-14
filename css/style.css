@@ -100,7 +100,7 @@ h2{
 .img_2{
     position: absolute;
     bottom:22%;
-    right:-9%;
+    right:-6%;
     z-index: 99;
 }
 .img_3{
@@ -110,12 +110,12 @@ h2{
 .left_chobi{
     position: absolute;
     bottom:4%;
-    right: 19%;
+    right: 20%;
 }
 .shape_imgss{
     position: absolute;
-    top:25%;
-    right:-8%;
+    top:34%;
+    right:-5%;
 }
 /* collect_real part end */
 
