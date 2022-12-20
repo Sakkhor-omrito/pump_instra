@@ -42,6 +42,13 @@ h2{
 #navbarItems ul li a:hover{
     color: var(--primary-color)!important;
 }
+.menufix{
+    position: fixed;
+    top:0;
+    width: 100%;
+    background-color: rgb(253, 250, 250);
+    z-index: 99999;
+}
 .nav_right{
     margin-top:17px;
 }
